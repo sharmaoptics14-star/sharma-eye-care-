@@ -434,7 +434,7 @@ export default function SharmaEyeCareWebsite() {
               </select>
 
               <textarea
-                rows="4"
+                rows={4}
                 placeholder="Additional Notes"
                 className="md:col-span-2 bg-white/10 border border-white/20 rounded-2xl px-5 py-4 outline-none focus:border-blue-400"
               ></textarea>
