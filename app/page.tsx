@@ -439,9 +439,13 @@ export default function SharmaEyeCareWebsite() {
                 className="md:col-span-2 bg-white/10 border border-white/20 rounded-2xl px-5 py-4 outline-none focus:border-blue-400"
               ></textarea>
 
-              <button className="md:col-span-2 bg-white text-blue-900 hover:bg-blue-100 font-semibold py-4 rounded-2xl transition-all shadow-lg">
-                Confirm Appointment
-              </button>
+              <a
+             href="https://forms.gle/E84EVKYfmRw8KDZZ7"
+             target="_blank"
+             className="md:col-span-2 bg-white text-blue-900 hover:bg-blue-100 font-semibold py-4 rounded-2xl transition-all shadow-lg text-center"
+             >
+             Confirm Appointment
+             </a>
             </form>
           </div>
         </div>
